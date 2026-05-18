@@ -250,9 +250,3 @@ files = gen.generate(problem, backend='my_backend')
 - `numpy` ≥ 1.24
 - `matplotlib` ≥ 3.7 (optional, for benchmark plots)
 - A C compiler (`gcc` / `clang` / `arm-none-eabi-gcc`) for the generated code
-
----
-
-## License
-
-MIT
